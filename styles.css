@@ -6,3 +6,12 @@ html, body {
 button {
   margin: 75px;
 }
+
+.clicked {
+  width: 150px;
+  height: 100px;
+  line-height: 100px;
+  margin: 0 auto;
+  background: white;
+  border: 1px solid cyan;
+}
