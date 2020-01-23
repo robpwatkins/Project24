@@ -7,6 +7,11 @@ button {
   margin: 75px;
 }
 
+button:hover {
+  background: cyan;
+  color: hotpink;
+}
+
 .clicked {
   width: 150px;
   height: 100px;
